@@ -1,0 +1,25 @@
+.game-control-box{
+	margin: 5px 0 5px 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #ddd;
+}
+
+.last-control-box{
+	border: none;
+}
+
+.game-control-box h2{
+	font-size: 16px;
+}
+
+.game-control-box{
+	font-size: 14px;
+}
+
+.btn{
+	margin: 5px;
+}
+
+.alert{
+	display: none;
+}
